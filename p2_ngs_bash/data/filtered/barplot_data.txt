@@ -1,0 +1,17 @@
+Transcrito:
+ncRNA	2
+SRP_RNA	1
+sequence_feature	3
+tmRNA	1
+exon	153
+rRNA	42
+region	1
+CDS	21
+riboswitch	37
+Homology	5258
+RNase_P_RNA	1
+binding_site	43
+gene	5346
+pseudogene	85
+tRNA	106
+1	1
